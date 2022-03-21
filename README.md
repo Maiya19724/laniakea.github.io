@@ -1,4 +1,4 @@
-# <div align="center"><a title="L1n's blog repository" href="https://github.com/linwhitehat/linwhitehat.github.io"><img align="center" width="75" height="75" src="https://raw.githubusercontent.com/linwhitehat/master/rabbit900.png"></a> L1n</div>
+# <div align="center"><a title="L1n's blog repository" href="https://github.com/linwhitehat/linwhitehat.github.io"><img align="center" width="75" height="75" src="/rabbit900.png"></a> L1n</div>
 
 ## Homepage
 
